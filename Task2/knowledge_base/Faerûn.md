@@ -118,12 +118,12 @@ Veldorn: The Land of Monsters was ruled by an alliance of beast-chieftains.
 5191109f-1339-4b01-a9e0-a372a292027a
 Main article: 5191109f-1339-4b01-a9e0-a372a292027a
 The immense complex of caverns and passages that lay beneath many parts of the continent of 770f5340-cb05-49ab-a0e7-effb646db3b0. It contained:
-Ched Nasad: A destroyed drow city in the midde Northdark.
+Ched Nasad: A destroyed 4ccc52ab-ada3-4c7d-b21e-0192cd9caa40 city in the midde Northdark.
 Dunspeirrin: A duergar city in the Darklands.
 Gracklstugh: This city of Duergar was located under the earth south of the Evermoors.
-Llurth Dreir: A drow city under the Great Rift that had been forsaken by dd665bc9-5adb-48aa-a6f0-236bce62b727.
-Maerimydra: This large drow city was located under the Dalelands.
-0158a791-a511-46cb-934e-d94ef787df5d: The infamous drow city and original home of 1e1baf09-7023-446f-9a5e-06bfd0cbde78 ff9e68f2-9450-4edc-aa50-778d07764885.
-Sshamath: One of the few drow cities ruled by male wizards.
+Llurth Dreir: A 4ccc52ab-ada3-4c7d-b21e-0192cd9caa40 city under the Great Rift that had been forsaken by dd665bc9-5adb-48aa-a6f0-236bce62b727.
+Maerimydra: This large 4ccc52ab-ada3-4c7d-b21e-0192cd9caa40 city was located under the Dalelands.
+0158a791-a511-46cb-934e-d94ef787df5d: The infamous 4ccc52ab-ada3-4c7d-b21e-0192cd9caa40 city and original home of 1e1baf09-7023-446f-9a5e-06bfd0cbde78 ff9e68f2-9450-4edc-aa50-778d07764885.
+Sshamath: One of the few 4ccc52ab-ada3-4c7d-b21e-0192cd9caa40 cities ruled by male wizards.
 ba28ef7c-8881-4e75-8e71-018784dfe73a: Chief city of the svirfneblin, before being driven out to dadb1354-def3-4caa-97a9-6bae0f8173d7.
 It also contained the almost unpronounceable cities of kuo-toa, illithids, and beholders.

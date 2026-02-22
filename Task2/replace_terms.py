@@ -1,7 +1,6 @@
 import json
 import os
 import re
-from pathlib import Path
 
 def load_terms_map(terms_file):
     """Загружает словарь замен из JSON-файла."""
@@ -16,7 +15,7 @@ def create_safe_pattern(terms):
     # Создаем паттерн с границами слов для точного совпадения
     # Учитываем, что некоторые термины могут содержать пробелы или спецсимволы
     pattern = r'(?<!\w)(' + '|'.join(escaped_terms) + r')(?!\w)'
-    return re.compile(pattern)
+    return re.compile(pattern, re.IGNORECASE)
 
 def replace_terms_in_file_safe(file_path, terms_map):
     """Безопасная замена ключей на значения в содержимом файла."""
@@ -24,13 +23,23 @@ def replace_terms_in_file_safe(file_path, terms_map):
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
 
+        # Делаем case-insensitive мапу для lookup
+        terms_map_ci = {k.casefold(): v for k, v in terms_map.items()}
+
         # Создаем паттерн для безопасной замены
         pattern = create_safe_pattern(terms_map)
 
         # Функция замены
         def replace_match(match):
-            term = match.group(1)  # Берем первую группу (сам термин)
-            return terms_map[term]
+            term = match.group(1)
+            key = term.casefold()
+
+            replacement = terms_map_ci.get(key)
+            if replacement is None:
+                # На всякий случай не падаем, а оставляем как есть
+                # (в идеале такого быть не должно, но это спасает прогон)
+                return term
+            return replacement
 
         # Выполняем замену
         new_content, count = pattern.subn(replace_match, content)

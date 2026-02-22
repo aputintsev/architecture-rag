@@ -10,55 +10,13 @@ Silver Marches
 ,
 northwest 770f5340-cb05-49ab-a0e7-effb646db3b0
 Society
-Races
-Arctic dwarves
-,
-dire bears
-,
-dire wolverines
-,
-frost giants
-,
-hill giants
-,
-human
-(
-barbarians
-),
-orcs
-,
-rothe
-Inhabitants of the 8da06a31-28c3-4a67-b098-2fa28594f296
-Locations in the 8da06a31-28c3-4a67-b098-2fa28594f296
-Organizations in the 8da06a31-28c3-4a67-b098-2fa28594f296
-Settlements  in the 8da06a31-28c3-4a67-b098-2fa28594f296
-The
-8da06a31-28c3-4a67-b098-2fa28594f296
-was a forest west of
-Cold Wood
-and northeast of the
-Moonwood
-in the
-Silver Marches
-.
+Races: Arctic dwarves , dire bears, dire wolverines, frost giants, hill giants, human(barbarians), orcs, rothe
+The 8da06a31-28c3-4a67-b098-2fa28594f296 was a forest west of Cold Wood and northeast of the Moonwood in the Silver Marches.
 
 Description
 The forest was sparse and narrow, full of pine, spruce firs and conifers. As the hills approached the mountains, the forest gave way to the scrub and heaths that were arid and cold, in which there were looming glaciers and peaks.
-8da06a31-28c3-4a67-b098-2fa28594f296 had a bad reputation as a place always being raided by
-orcs
-,
-giants
-, and other dangerous creatures. That fame was wholly deserved.
-Frost giants
-and
-hill giants
-descended into the forest looking for wild game, timber, and forage. 8da06a31-28c3-4a67-b098-2fa28594f296 was also known for
-rothé
-,
-dire bears
-, and
-dire wolverines
-; these latter creatures were so evil that even giants kept away from them.
+8da06a31-28c3-4a67-b098-2fa28594f296 had a bad reputation as a place always being raided by orcs, giants, and other dangerous creatures. That fame was wholly deserved. 
+Frost giants and hill giants descended into the forest looking for wild game, timber, and forage. 8da06a31-28c3-4a67-b098-2fa28594f296 was also known for rothé, dire bears, and dire wolverines; these latter creatures were so evil that even giants kept away from them.
 Geography
 Climate for the 8da06a31-28c3-4a67-b098-2fa28594f296
 Average Temperatures
@@ -124,16 +82,9 @@ Spring
 Kyt 25)
 7 days
 Summer
-(Kyt 26–
-Elei 4)
+(Kyt 26–Elei 4)
 13 days
 Autumn
-(Elei 5–
-Mar 30)
+(Elei 5–Mar 30)
 Annual rainfall: 69 days
-The wood was also the water source of
-River Redrun
-.
-Notable locations
-Settlements
-Frostrill
+The wood was also the water source of River Redrun.
