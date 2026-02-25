@@ -29,3 +29,6 @@ python rag_bot.py
 python rag_bot.py --query '<your question>'
 ```
 
+# Результаты
+[Примеры успешных ответов](success_samples.md)  
+[Примеры неуспешных ответов](unsuccess_samples.md)
