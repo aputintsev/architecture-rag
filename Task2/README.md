@@ -1,0 +1,2 @@
+В качестве базы знаний взят фандом Forgotten Realms, расположенный по адресу https://forgottenrealms.fandom.com/wiki/Main_Page
+Произведена замена имен собственных в статьях на UUIDv4 в соответствии с файлом terms_map.json.
